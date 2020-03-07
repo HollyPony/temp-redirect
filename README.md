@@ -1,4 +1,4 @@
 # osef
 
-<a href="test.com">test2</a>
+<a href="velocare://login">test2</a>
 [test](velocare://login)
